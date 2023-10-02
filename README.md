@@ -8,4 +8,4 @@
   </a>
 </p>
 
-Besides, [this](Https://github.com/nya-main) is my friend. Follow Her :)
+Also, [this](https://github.com/nya-main) is my friend's GitHub account. Follow her :)
